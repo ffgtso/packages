@@ -1,10 +1,10 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=mmfd
-PKG_SOURCE_DATE:=2018-04-10
+PKG_SOURCE_DATE:=2018-06-27
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL=https://github.com/freifunk-gluon/mmfd.git
-PKG_SOURCE_VERSION:=13a909d431be29ae36bd5e8cc355232d855aed1a
+PKG_SOURCE_VERSION:=6382aaaa8e7bff6b5e561fd338e297bccb52fc32
 
 include $(INCLUDE_DIR)/package.mk
 include $(INCLUDE_DIR)/cmake.mk
