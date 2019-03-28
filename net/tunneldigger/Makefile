@@ -5,7 +5,7 @@ PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
 #PKG_SOURCE_URL:=git://github.com/wlanslovenija/tunneldigger.git
-PKG_SOURCE_URL:=https://github.com/ffgtso/tunneldigger_tmp.git
+PKG_SOURCE_URL:=https://github.com/ffgtso/tunneldigger.git
 #PKG_SOURCE_DATE:=2017-12-13
 #PKG_SOURCE_VERSION:=d7db350011076d6a83855d412885a29a7d142b6e
 PKG_SOURCE_VERSION:=9648cc5dca5bfc2f9c68c515c0283811ca94383a
